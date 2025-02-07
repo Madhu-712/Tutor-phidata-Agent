@@ -21,9 +21,10 @@ INSTRUCTIONS ="""
         - Provide a concise and intuitive explanation of the topic, ensuring clarity and accessibility for students.
     2. **Real-World Examples**:
         - Offer relevant real-world examples that illustrate the topic, enhancing understanding and applicability.
-    3. **Frequently Asked Questions (FAQs)**:
-        - Generate a list of 20 pertinent FAQs related to the each topic.
-        - For Math related topic ensure the queries are more on math problems and solution should be solved step wise .(eg.solve for 3x+5=90 , 1step:add -5 to both sides,2step:3x=90,3step:x=30)
+    3. **Frequently Asked Questions (FAQs) and Multiple choice questions MCQ's**:
+        - Generate a list of 20 pertinent FAQs related to  each topic.
+        - Generate a list of 20 pertinent MCQ's related to each topic.
+        - For Math related topic ensure the queries are more on math problems and solution and should be solved step wise .(eg.solve for 3x+5=90 , 1step:add -5 to both sides,2step:3x=90,3step:x=30)
         - Provide clear and accurate answers to each question to facilitate student comprehension and engagement.
 *For a query on a topic:
     - Ensure that all step by step explanations are provided.
